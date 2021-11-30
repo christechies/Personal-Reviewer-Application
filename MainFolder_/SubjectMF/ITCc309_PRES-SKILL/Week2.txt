@@ -1,0 +1,77 @@
+#desc
+Communication
+-a process of creating ideas, sharing information, views and feelings
+Communication
+-the key to the directing function of management
+Communication
+-fundamental to existence & survival of humans as well to orgs
+Formal_Communication
+-flows through the official channels designed in organizations chart
+Vertical_Communication
+-flows vertically upward or downward through formal channels (superior to subordinate)
+Horizontal_Communication
+-takes place between one division and another
+Single Chain
+-type of communication network that flows from every superiro to his subordinate through a single chain
+Wheel
+-a type of communication network where all subordinates under one superior communication through him only, they are not allowed to talk amongst themselves
+Circular
+-communication moves in circle, each person is only able to communicate to two persons only
+Free_Flow
+-each person can communication to any other person freely, there is no restrictions
+InvertedV
+-a subordinate is allowed to communicate with his immediate superior as well as his superior’s superior also. However, in the latter case, only ordained communication takes place.
+Informal_Communication
+-any communication that takes place without following the formal channels of communication is said to be informal communication
+Informal_Communication
+-often referred to as the ‘grapevine’ as it spreads throughout the organization and in all directions without any regard to the levels of authority
+Informal_Communication
+-often leads to rumors which is not true
+Single_Strand
+-a type of network where each person communicates with another in a sequence
+Gossip_Network
+-a type of network where each person communicates with all other persons on a non-selective basis
+Probability_Network
+-a type of network where the individual communicates randomly with other individuals
+Cluster_Network
+-a type of networks where an individual only communicates with only those he trusts
+Communication_Barriers
+-may prevent communication or even carry incorrect meanings due to themisunderstanding it created
+Semantic_Barrier
+-process of encoding & decoding of a message with using of wrong words
+Psychological_Barrier
+-state of mind of both sender and receiever of communication
+Organizational_Barrier
+-related to structures, rules, and regulations authority relationships
+Personal_Barrier
+-sender and receiver may act as barrie
+Clear_Communication
+-make objectives clear & avoid complex words and phrases
+Concise_Communication
+-keep it clear and to the point & avoid filler words & sentences
+Concrete_Communication
+-be specific not vague & use facts and figures to support your message
+Correct_Communication
+-try to avoid typos & use correct facts and the right level of language
+Coherent_Communication
+-does your message make sense & is it too much or does it flow logically
+Complete_Communication
+-does the message contain everything it needs to & include a call to action
+Courteous_Communication
+-being polite builds goodwill & it ensures message is tactful
+
+#enums
+Comms_Process[SMEMDRFN]
+-sender,message,encoding,media,decoding,receiver,feedback,noise
+Importance_of_comms
+-basis_of_coordination,fluent_working,basis_of_decision_making,managerial_efficiency,increases_coop_and_organizational_peace,boosts_morale_of_empployees
+Formal_Communication_networks
+-single_chain,wheel,circular,free_flow,invertedV
+Informal_Communication_networks
+-single_strand,gossip_network,probability_network,cluster_network
+Communication_Barrier_Types
+-semantic,psychological,organizational,personal
+SevenCs_of_Communication
+-clear,concise,concrete,correct,coherent,complete,courteous
+FiveBasicCriteria_for_EffectiveMessage
+-relevant,organized,explenatory,accurate,grammatically_correct

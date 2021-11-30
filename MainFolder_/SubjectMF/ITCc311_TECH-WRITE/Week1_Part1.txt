@@ -1,0 +1,20 @@
+#desc
+Technical_Writing
+-a specialized structured form of writing that presents technical information to readers
+Clarity
+-easily understoof by intended audience
+Specific_Audience
+-targeted to readers
+Accuracy
+-is factual,correct and free form bias
+Correctness
+-follows grammatical and technical conventions
+Comprehensiveness
+-contains all necessary information
+Accessibility
+-includes Table of Content, headings, subheadings, indexes
+
+
+#enums
+Technical_Writing_Qualities
+-adaptable_to_readers_understanding_level,able_to_help_perform_a_specific task_or_solve_a_specific_problem,explains_a_subject_matter_in_a_factual_straightforward_style
